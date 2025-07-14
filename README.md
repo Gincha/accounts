@@ -1,6 +1,6 @@
 Service uses in memory DB that is refreshed on each service restart.
 
-ClientA has accounts A (balance 15.12 EUR) and C (balance 135 EUR)
+ClientA has accounts A (balance 15.12 EUR) and C (balance 135 USD)
 
 ClientB has account B (balance 0.01 EUR)
 
